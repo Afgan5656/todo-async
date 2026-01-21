@@ -61,7 +61,7 @@ export default function Index(){
             </View>
         </ScrollView>
 
-        <View style={{ flexDirection: 'row', alignItems: 'center', marginTop: 10 }}>
+        <View style={{  alignItems: 'center', marginTop: 10 }}>
             <TextInput 
                 placeholder="Masukan Tugas" 
                 value={Judul} 
